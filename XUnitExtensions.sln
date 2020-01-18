@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitLoggingExtensions", "XUnitLoggingExtensions\XUnitLoggingExtensions.csproj", "{3AF0C8FD-C8B9-46C1-B79C-8D2FDE706741}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitExtensions.Logging", "XUnitExtensions.Logging\XUnitExtensions.Logging.csproj", "{3AF0C8FD-C8B9-46C1-B79C-8D2FDE706741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
